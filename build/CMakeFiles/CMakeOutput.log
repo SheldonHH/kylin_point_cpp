@@ -1,0 +1,14 @@
+The system is: Darwin - 18.0.0 - x86_64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /Library/Developer/CommandLineTools/usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is AppleClang, found in "/Users/mac/Desktop/daima/KLIN/learning/Kylinchain/sac/build/CMakeFiles/3.12.3/CompilerIdCXX/a.out"
+

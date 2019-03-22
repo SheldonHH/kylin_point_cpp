@@ -1,0 +1,96 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+/usr/local/bin/cc: line 14: syntax error: unexpected end of file
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+USAGE: contract.sh <Contract Name> from within the directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+USAGE: contract.sh <Contract Name> from within the directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+USAGE: contract.sh <Contract Name> from within the directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+/usr/local/bin/cc: line 14: syntax error: unexpected end of file
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+USAGE: contract.sh <Contract Name> from within the directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+USAGE: contract.sh <Contract Name> from within the directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+USAGE: contract.sh <Contract Name> from within the directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+USAGE: contract.sh <Contract Name> from within the directory
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+USAGE: contract.sh <Contract Name> from within the directory
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/mac/Desktop/daima/KLIN/learning/Kylinchain/sac/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4a4e4/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_4a4e4.dir/build.make CMakeFiles/cmTC_4a4e4.dir/build
+Building C object CMakeFiles/cmTC_4a4e4.dir/testCCompiler.c.o
+/usr/local/bin/cc    -o CMakeFiles/cmTC_4a4e4.dir/testCCompiler.c.o   -c /Users/mac/Desktop/daima/KLIN/learning/Kylinchain/sac/build/CMakeFiles/CMakeTmp/testCCompiler.c
+USAGE: contract.sh <Contract Name> from within the directory
+make[1]: *** [CMakeFiles/cmTC_4a4e4.dir/testCCompiler.c.o] Error 1
+make: *** [cmTC_4a4e4/fast] Error 2
+
+

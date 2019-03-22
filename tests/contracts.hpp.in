@@ -1,0 +1,12 @@
+#pragma once
+#include <eosio/testing/tester.hpp>
+
+namespace eosio { namespace testing {
+
+struct contracts {
+
+   static std::vector<uint8_t> token_wasm() { return read_wasm("${CMAKE_BINARY_DIR}/../klp.token/klp.token.wasm"); }
+   static std::string          token_wast() { return read_wast("${CMAKE_BINARY_DIR}/../klp.token/klp.token.wast"); }
+   static std::vector<char>    token_abi() { return read_abi("${CMAKE_BINARY_DIR}/../klp.token/klp.token.abi"); }
+};
+}} //ns eosio::testing

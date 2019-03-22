@@ -1,0 +1,16 @@
+{
+  "main": "smart_account_creator.cpp",
+  "contract": "smart",
+  "include": "",
+  "cdt": "",
+  "output": "",
+  "scripts": {
+    "build": ""
+  },
+  "deploy": {
+    "mainnet": "",
+    "kylin": "",
+    "jungle": "",
+    "local": ""
+  }
+}
